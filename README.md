@@ -1,2 +1,2 @@
 # WebTemplate
-A.sp.Net Core MVC 
+Asp.Net Core MVC 
